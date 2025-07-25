@@ -1,7 +1,7 @@
 # Projet d'Analyse des Sentiments avec NLP
 
 **Auteur:** BOUHLALI Abdelfattah   
-**Année:** 2023 - 2024
+**Année:** 2024 - 2025
 
 ## Aperçu
 
